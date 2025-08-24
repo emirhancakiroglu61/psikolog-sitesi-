@@ -1,0 +1,56 @@
+# PHP
+*.log
+*.cache
+*.tmp
+*.temp
+
+# Configuration files with sensitive data
+includes/config.php
+
+# Uploaded files
+uploads/
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pdf
+*.doc
+*.docx
+
+# Database
+*.sql
+*.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Error logs
+php-error.log
+mail-error.log
+error.log
+
+# Session files
+sess_*
+
+# Temporary files
+tmp/
+temp/
+
+

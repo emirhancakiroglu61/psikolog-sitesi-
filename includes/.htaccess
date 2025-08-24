@@ -1,0 +1,3 @@
+# includes/.htaccess
+# Bu dizindeki tüm dosyaların dışarıdan erişimini engelle
+Deny from all 
